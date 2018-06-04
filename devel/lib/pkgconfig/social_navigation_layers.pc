@@ -1,0 +1,8 @@
+prefix=/home/up2/catkin_ws/devel
+
+Name: social_navigation_layers
+Description: Description of social_navigation_layers
+Version: 0.3.1
+Cflags: -I/home/up2/catkin_ws/devel/include
+Libs: -L/home/up2/catkin_ws/devel/lib 
+Requires: people_msgs costmap_2d dynamic_reconfigure

@@ -1,0 +1,8 @@
+prefix=/home/up2/catkin_ws/devel
+
+Name: libnite2
+Description: Description of libnite2
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/up2/catkin_ws/devel/lib 
+Requires: 
