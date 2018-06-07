@@ -5,7 +5,7 @@
 #include <sstream>
 #include <unistd.h>
 
-serial::Serial ser("/dev/ttyUSB0",115200,serial::Timeout::simpleTimeout(1000)); //声明串口对象  
+serial::Serial ser("/dev/ttyUSB1",115200,serial::Timeout::simpleTimeout(1000)); //声明串口对象  
   
 int main (int argc, char** argv) 
 { 
